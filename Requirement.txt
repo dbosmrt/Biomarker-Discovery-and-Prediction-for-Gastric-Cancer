@@ -1,0 +1,25 @@
+1. Core Libraries: 
+	pandas
+	numpy
+	matplotlib
+	seaborn
+	plotly
+	sci-kit learn
+
+2. Deep Learning Libraries:
+	torch
+	torchvision
+	tensorFlow 
+	torchaudio
+
+3. Natural Language Processing:
+	transformers
+	sentencepiece
+	nltk
+	spacy
+	scispacy
+	biopython
+
+4. API/ Data 
+	requests
+	beautifulsoup4
