@@ -10,7 +10,6 @@
 	torch
 	torchvision
 	tensorFlow 
-	torchaudio
 
 3. Natural Language Processing:
 	transformers
